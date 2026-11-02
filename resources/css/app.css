@@ -10,6 +10,9 @@
         'Segoe UI Symbol', 'Noto Color Emoji';
     --font-serif: "Henny Penny", system-ui;
     --color-hallow-orange-1: oklch(0.745 0.171 56.3);
+    --color-hallow-orange-1-darker: oklch(0.728 0.171 56.3);
     --color-hallow-orange-1-lighter: oklch(0.9695 0.0639 56.3);
-    --color-hallow-orange-1-lighter-2: oklch(0.9766 0.0411 56.3);
+    --color-hallow-orange-1-lighter-2: oklch(0.9795 0.0411 56.3);
+    --color-hallow-purple-1: oklch(0.6653 0.2306 300.89);
+    --color-hallow-purple-1-darker: oklch(0.5972 0.2306 300.89);
 }

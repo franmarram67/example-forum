@@ -12,7 +12,8 @@
       <header class="py-4 px-16 w-full shadow-[0_2px_8px_var(--color-hallow-orange-1)]/50 bg-hallow-orange-1/10 backdrop-blur-sm flex justify-between items-center">
         <h1 class="text-3xl font-bold">🎃 Hallow Forum</h1>
         <div>
-          
+          <a href="{{ route('login') }}" class="py-2 px-4 bg-hallow-orange-1 hover:bg-hallow-orange-1-darker rounded-xl mr-2">Log In</a>
+          <a href="{{ route('register') }}" class="py-2 px-4 bg-hallow-purple-1 hover:bg-hallow-purple-1-darker rounded-xl text-white">Register</a>
         </div>
       </header>
   </body>
